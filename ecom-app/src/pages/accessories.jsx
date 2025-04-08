@@ -75,6 +75,26 @@ const accessoriesData = [
       { id: "p44", name: "Neon Style Mix", desc: "High-glow neons." },
     ],
   },
+  {
+    title: "KDM Products",
+    products: [
+      { id: "p49", name: "Power bank", desc: "Set of 5 logo stickers." },
+      { id: "p50", name: "KDM USB cables data ", desc: "Cute anime designs." },
+      { id: "p51", name: "car charger", desc: "90s vibe emojis." },
+      { id: "p52", name: "Adapter", desc: "Bright tech prints." },
+      { id: "p53", name: "KDM earphone", desc: "FPS, RPG, MOBA styles." },
+    ],
+  },
+  {
+    title: "Victel",
+    products: [
+      { id: "p54", name: "USB cable", desc: "Set of 5 logo stickers." },
+      { id: "p55", name: "Earphone", desc: "Cute anime designs." },
+      { id: "p56", name: "Adapter", desc: "90s vibe emojis." },
+      { id: "p57", name: "Battery", desc: "Bright tech prints." },
+    
+    ],
+  },
 ];
 
 export default function AccessoriesPage() {

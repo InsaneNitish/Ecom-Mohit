@@ -4,7 +4,7 @@ import { ChevronDown, Menu, X } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const menuItems = [
-  { name: 'Home', link: '#' },
+  { name: 'Home', link: '/' },
   {
     name: 'Shops',
     subItems: [
