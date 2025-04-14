@@ -2,17 +2,7 @@ import React, { useState } from 'react';
 import ProductCard from '../components/productcard';
 
 const accessoriesData = [
-  {
-    title: "Back Covers",
-    products: [
-      { id: "p1", name: "Galaxy Grip Case", desc: "Premium shockproof cover." },
-      { id: "p2", name: "Neo Flex TPU Cover", desc: "Flexible and clear design." },
-      { id: "p18", name: "Carbon Fiber Armor", desc: "Tough armor protection." },
-      { id: "p19", name: "Glitter Shield Back", desc: "Stylish glitter finish." },
-      { id: "p20", name: "Rugged Defender Case", desc: "Heavy-duty grip." },
-      { id: "p21", name: "Transparent Flex Cover", desc: "Slim clear design." },
-    ],
-  },
+  
   {
     title: "Tempered Glass",
     products: [
@@ -61,6 +51,17 @@ const accessoriesData = [
     products: [
       { id: "p35", name: "Tempered Lens Protector", desc: "Scratch-resistant glass." },
       { id: "p36", name: "Matte Lens Guard", desc: "Smooth matte finish." },
+    ],
+  },
+  {
+    title: "Back Covers",
+    products: [
+      { id: "p1", name: "Galaxy Grip Case", desc: "Premium shockproof cover." },
+      { id: "p2", name: "Neo Flex TPU Cover", desc: "Flexible and clear design." },
+      { id: "p18", name: "Carbon Fiber Armor", desc: "Tough armor protection." },
+      { id: "p19", name: "Glitter Shield Back", desc: "Stylish glitter finish." },
+      { id: "p20", name: "Rugged Defender Case", desc: "Heavy-duty grip." },
+      { id: "p21", name: "Transparent Flex Cover", desc: "Slim clear design." },
     ],
   },
   {
